@@ -1,0 +1,7 @@
+# Water Leak API gitignore
+
+#node_modules
+node_modules
+
+#env file
+.env
